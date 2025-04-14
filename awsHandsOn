@@ -1,0 +1,31 @@
+10 hands-on projects to gain practical experience with core AWS services and architectural best practices 
+ 
+1. Create a Static Website Using Amazon S3 
+https://docs.aws.amazon.com/AmazonS3/latest/userguide/WebsiteHosting.html 
+ 
+2. Launch and Configure an EC2 Instance 
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html
+ 
+3. Set Up an Application Load Balancer 
+https://docs.aws.amazon.com/elasticloadbalancing/latest/application/application-load-balancer-getting-started.html 
+ 
+4. Implement Auto Scaling 
+https://docs.aws.amazon.com/autoscaling/ec2/userguide/GettingStartedTutorial.html
+ 
+5. Create a VPC with Public and Private Subnets 
+https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Scenario2.html
+ 
+6. Set Up an Amazon RDS Database 
+https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_GettingStarted.html
+ 
+7. Implement an S3 Lifecycle Policy 
+https://docs.aws.amazon.com/AmazonS3/latest/userguide/how-to-set-lifecycle-configuration-intro.html
+ 
+8. Set Up CloudFront Distribution 
+https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/GettingStarted.html 
+ 
+9. Implement IAM Roles and Policies 
+https://docs.aws.amazon.com/IAM/latest/UserGuide/tutorials.html
+ 
+10. Set Up a Simple Serverless Application 
+https://docs.aws.amazon.com/lambda/latest/dg/getting-started.html 
